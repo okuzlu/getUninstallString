@@ -1,6 +1,6 @@
 # getUninstallString GUI
  
-PowerShell Script that searchs through the Registry for the DisplayName and returns an UninstallString and Registry Path.
+PowerShell Script that searchs through the Registry for the DisplayName and returns an UninstallString and Registry Path (x86 and x64).
 
 You can copy any data with CTRL + C.
 
